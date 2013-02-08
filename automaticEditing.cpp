@@ -1,6 +1,8 @@
 
 /*
  * automatic editing
+ * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1056
+ *
  * Perceptive Software Code Rush 2012 C++
  * 2/7/13 status: complete
  */
